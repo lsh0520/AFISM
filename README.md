@@ -2,7 +2,7 @@
 
 APR enhances the pairwise ranking method BPR by performing adversarial training. To illustrate how it works,  APR on FISM is implemented here by adding adversarial perturbations on the matrices P and Q.
 
-This is the implementation for Sihang Li's graduation thesis @USTC, under the supervision of Prof. Xiangnan He:
+This is the implementation for Sihang Li@USTC's undergraduat thesis, under the supervision of Prof. Xiangnan He:
 
 
 ## Environment
